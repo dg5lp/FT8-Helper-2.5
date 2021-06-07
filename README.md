@@ -18,6 +18,7 @@ Various strategies in S/P-mode, Call stations with:
 - Prefer Wanted (according to wanted lists)
 - Only Wanted (according to wanted lists)
 - Exclude stations, präfixes and DXCC-entities according to exclude lists
+- Keep-Even/Odd cycle for 6m DX-ing
 
 Band-Hopping
 
