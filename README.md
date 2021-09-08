@@ -10,7 +10,7 @@ Main Features of V2.2:
 
 Various strategies in S/P-mode, Call stations with:
 
-- Best Priority acording the JTDX "Notification" settings (clours)
+- Best Priority acording the JTDX "Notification" settings (colours)
 - Best S/N
 - Only DX
 - Prefer-DX
@@ -23,7 +23,7 @@ Various strategies in S/P-mode, Call stations with:
 Band-Hopping
 
 - Programmable on daily basis
-- Two time ranges per day can be prorammed
+- Two time ranges per day can be programmed
 - Operating band, mode, and strategy can be selected.
 - Comfortabel set-up of all parameter
 - Easy installation
