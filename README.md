@@ -25,10 +25,10 @@ Band-Hopping:
 - Programmable on daily basis
 - Two time ranges per day can be programmed
 - Operating band, mode, and strategy can be selected.
-
+ 
 - Comfortable set-up of all parameter
 - Easy installation
-- WSJT-X can start with the -rig-name argument 
+- WSJT-X can start with the -rig-name argument
 - Opens the QRZ.com page of the station when starting a QSO
 
 Feedback to: dg5lp@darc.de
