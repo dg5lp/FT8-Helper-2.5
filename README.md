@@ -9,8 +9,12 @@ Main Features of V2.4:
 - Automatic find of free frequency in CQ-mode
 - Automatic changes between CQ and S/P mode with programmable intervals, dependng on band activity.
 - Repeat RR73 if no closing 73 received
+- Comfortable set-up of all parameter
+- Easy installation
+- WSJT-X can start with the -rig-name argument
+- Opens the QRZ.com page of the station when starting a QSO
 
-Various strategies in S/P-mode, Call stations with:
+Various strategies in CQ- and S/P-mode, Calls stations with:
 - Best Priority acording the WSJT-X "Colours" settings.
 - Best S/N: If Stations with the same priority received, the one with the best S/N selected
 - Only DX: Minimum DX-distance can be specified in Km and Miles.
@@ -25,10 +29,5 @@ Band-Hopping:
 - Programmable on daily basis
 - Two time ranges per day can be programmed
 - Operating band, mode, and strategy can be selected.
- 
-- Comfortable set-up of all parameter
-- Easy installation
-- WSJT-X can start with the -rig-name argument
-- Opens the QRZ.com page of the station when starting a QSO
 
 Feedback to: dg5lp@darc.de
