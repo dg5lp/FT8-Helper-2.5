@@ -1,9 +1,9 @@
-# FT8-Helper-2.4
+# FT8-Helper-2.4.2
 
 The FT8-Helper program was developed as macro extension for the JTDX using the Quick-Macros program. Comparing to other FT8-Robot programs, the FT8-Helper is more “intelligent”, it interprets the received messages of WSJTX and acts according to the own pre-programmed QSO strategy. The delivered EXE file contains the licence for Quick-Macros.
 
 Main Features of V2.4:
-- Works with WSJT-X 5.1 only
+- Works with WSJT-X 2.5.1 and 2.5.2
 - Automatic operation in both "CQ" and "S/P" mode.
 - New mode: CQ+SP: It calls CQ and if no station answers, it calls CQ-calling stations.
 - Automatic find of free frequency in CQ-mode
