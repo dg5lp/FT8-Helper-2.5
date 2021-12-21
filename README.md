@@ -1,7 +1,7 @@
 # FT8-Helper-2.4.4
 
-New in 2.4.4 v.s 2.4.2:
-. supports WSJT-X 2.5.3
+New in 2.4.4 v.s 2.4.3:
+- supports WSJT-X 2.5.3, not supporting 2.5.2 any more.
 - Max. Audio Freq. can be set to 1000Hz (required for 60m band in GB)
 
 New in 2.4.3 vs. 2.4.2:
