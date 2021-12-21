@@ -1,4 +1,8 @@
-# FT8-Helper-2.4.3
+# FT8-Helper-2.4.4
+
+New in 2.4.4 v.s 2.4.2:
+. supports WSJT-X 2.5.3
+- Max. Audio Freq. can be set to 1000Hz (required for 60m band in GB)
 
 New in 2.4.3 vs. 2.4.2:
 - Rep. Diff. field: shows the average difference of received and transmitted reports. A positive number indicates that you receive better reports as you send.
