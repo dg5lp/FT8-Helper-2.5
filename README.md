@@ -1,4 +1,7 @@
-# FT8-Helper-2.4.4
+# FT8-Helper-2.4.4a
+
+New in 2.4.4a
+- supports WSJT-X 2.5.4, not supporting WSJT-X 2.5.2 any more
 
 New in 2.4.4 v.s 2.4.3:
 - supports WSJT-X 2.5.3, not supporting 2.5.1 any more.
