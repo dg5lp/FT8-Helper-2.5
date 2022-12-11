@@ -1,6 +1,7 @@
 # FT8-Helper-2.4.4a
 
 Important note!
+
 When downloading the exe file, virus-alarm might occur. This is a false alarm. The FTh-Helper software use macro commands. Most virus checker cannot distinguish harmless and harmful macros, althought they are not encryptes. Upload and check the software to virustotal.com. You can trust the software. Another issue: The dxcc_qra.txt can be downloaded via copy-paste to a notepad, or together with the exe in the ZIP-file.
 
 New in 2.4.4a
